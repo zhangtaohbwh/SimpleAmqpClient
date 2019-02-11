@@ -1,0 +1,8 @@
+.svn/
+build/windows/.vs
+build/windows/x64
+build/windows/*.opensdf
+build/windows/*.sdf
+
+
+
